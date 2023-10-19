@@ -1,0 +1,36 @@
+# namaste-react
+
+#episode-1
+CDN
+Crossorigin
+
+#episode-2
+Igniting Our App(Energy, Production Ready)
+
+NPM - managing packages ,all the packagesare hosted there.
+
+package.json is a configuration for NPM
+
+dev dependency : required in development(-D)
+normal dependency: can use in prod
+
+if you have package.json and package.lock.json  we can recreate node_modules. no need to push node_modules in git repo.
+
+npx- executing the package
+npm - installing
+
+CDN - CDN of react and react dom is not prefferd way to import react because in future version can change so better to use package.json(npm i react)
+
+Parcel-
+dev build
+local server
+HMR hot module replacement(refresh auto)
+file watching algo
+caching
+image optimization
+bunding
+compressing
+https
+tree shaking- remove unused code
+
+
